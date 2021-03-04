@@ -192,7 +192,7 @@ if(isset($_SESSION['IGISHORO_BLOG_ADMIN_PANEL_PRINCE_2020']) == false){
                         Copyright &copy; <?php echo  date("Y"); ?> Igishoro
                     </div>
                     <div class="col-sm-6 text-right">
-                        Designed by <a href="https://github.com/PrinceNiyonshuti" target="_blank">NP Tech</a>
+                        Designed by <a href="https://github.com/PrinceNiyonshuti" target="_blank">Jr Tech</a>
                     </div>
                 </div>
             </div>

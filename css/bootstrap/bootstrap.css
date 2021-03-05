@@ -1577,7 +1577,7 @@ pre {
   .form-control:focus {
     color: #495057;
     background-color: #fff;
-    border-color: #ffb695;
+    border-color: #FFFF00;
     outline: 0;
     -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 94, 21, 0.25);
     box-shadow: 0 0 0 0.2rem rgba(255, 94, 21, 0.25); }

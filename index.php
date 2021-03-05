@@ -78,7 +78,8 @@ include "blog-admin/config/config.php";
                             <a href="#" class="d-inline-block p-3"><span class="icon-facebook"></span></a>
                             <a href="#" class="d-inline-block p-3"><span class="icon-twitter"></span></a>
                             <a href="#" class="d-inline-block p-3"><span class="icon-instagram"></span></a>
-                            <a href="#" class="d-inline-block p-3"><span class="icon-instagram"></span></a>
+                            <a href="#" class="d-inline-block p-3"><span class="icon-pinterest"></span></a>
+                            <a href="#" class="d-inline-block p-3"><span class="icon-linkedin"></span></a>
                         </div>
                         <form action="#" class="search-form d-inline-block">
 
@@ -230,7 +231,7 @@ include "blog-admin/config/config.php";
                                 Copyright &copy;<script>
                                 document.write(new Date().getFullYear());
                                 </script> All rights reserved By Igishoro | This Blog is made by
-                                <a href="https://github.com/PrinceNiyonshuti" target="_blank">NP Tech</a>
+                                <a href="https://github.com/PrinceNiyonshuti" target="_blank">Jr Tech</a>
                                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                             </p>
                         </div>
